@@ -1,0 +1,3 @@
+exports.ItemTypes = {
+  PATIENT: 'patient'
+}
